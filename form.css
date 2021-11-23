@@ -1,0 +1,30 @@
+.container{
+	display: grid; /* divide a tela em grade */
+	grid-template-columns: auto auto auto;
+
+}
+.container .left{
+	width: 25%; /* largura do left */
+	
+
+}
+.container .center{
+
+
+
+}
+.container .right{
+	width: 25%;
+	
+}
+
+.telefone{
+	display: inline-block; 
+
+}
+.cep{
+	display: inline-block;
+}
+input{
+	display: block;
+}
